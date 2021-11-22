@@ -28,5 +28,3 @@ echo "<br/>";
 $double = 20.5;
 echo "El double es $double";
 echo "<br/>";
-
-
